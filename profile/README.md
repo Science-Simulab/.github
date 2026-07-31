@@ -12,7 +12,7 @@
 
 ---
 
-## 🔬 Who We Are
+## Who We Are
 
 **Science Simulab** is an educational technology initiative focused on transforming traditional Mathematics and Science learning into interactive digital experiences.
 
@@ -24,24 +24,23 @@ Our primary learning platform is being developed around the **Bangladesh Nationa
 
 ---
 
-## 🎯 What We Are Building
+## What We Are Building
 
 Science Simulab combines curriculum-based learning with interactive technology to create educational experiences across:
 
-🧮 **Mathematics**  
-🔭 **Physics**  
-🧪 **Chemistry**  
-🧬 **Biology**  
-🌍 **Environmental Science**  
-⚡ **Energy & Electricity**  
-🌌 **Astronomy**  
-📊 **Data & Measurement**
+**Mathematics**  
+**Physics**  
+**Chemistry**  
+**Biology**  
+**Environmental Science**  
+**Energy & Electricity**   
+**Data & Measurement**
 
 Students interact with simulations using controls such as sliders, draggable objects, experiments, graphs, animations, measurements and interactive scientific models.
 
 ---
 
-## 📚 Curriculum Coverage
+## Curriculum Coverage
 
 Our current development focuses on:
 
